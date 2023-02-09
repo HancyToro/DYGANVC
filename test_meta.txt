@@ -18,3 +18,13 @@
 /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/19.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
 /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/20.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
 /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/21.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/22.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/23.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/24.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/25.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/26.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/27.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/28.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/29.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/30.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
+/content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/Audios_referencia/31.wav /content/gdrive/MyDrive/StarGANv2_Hancy/DYGANVC/English_fixed1.wav
